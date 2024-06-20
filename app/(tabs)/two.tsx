@@ -32,14 +32,15 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 30,
     fontWeight: 'bold',
+    marginTop:15,
     marginBottom: 5,
     textAlign: 'center',
   },
   linkText: {
     marginHorizontal: 10,
     marginTop: 10,
-    fontSize: 18,
-    textAlign: 'justify',
+    fontSize: 15,
+    textAlign: 'center',
     color: 'green', // Cor do texto do link
     textDecorationLine: 'underline', // Sublinhado para indicar que é um link
   },

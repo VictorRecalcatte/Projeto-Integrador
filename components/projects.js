@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.3,
     shadowRadius: 5,
     elevation: 5,
-    height: 80,
+    height: 'auto',
   },
   cardTitle: {
     fontSize: 14,
